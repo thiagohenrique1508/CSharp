@@ -1,0 +1,6 @@
+C:\Estudos\Alura\CSharp\csharppoo-master\07-ByteBank\bin\Debug\07-ByteBank.exe.config
+C:\Estudos\Alura\CSharp\csharppoo-master\07-ByteBank\bin\Debug\07-ByteBank.exe
+C:\Estudos\Alura\CSharp\csharppoo-master\07-ByteBank\bin\Debug\07-ByteBank.pdb
+C:\Estudos\Alura\CSharp\csharppoo-master\07-ByteBank\obj\Debug\07-ByteBank.csproj.CoreCompileInputs.cache
+C:\Estudos\Alura\CSharp\csharppoo-master\07-ByteBank\obj\Debug\07-ByteBank.exe
+C:\Estudos\Alura\CSharp\csharppoo-master\07-ByteBank\obj\Debug\07-ByteBank.pdb
