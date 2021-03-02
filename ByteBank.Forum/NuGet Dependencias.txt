@@ -1,0 +1,5 @@
+
+Install-Package Microsoft.AspNet.Identity.Core -Version 2.2.1
+
+
+Install-Package Microsoft.AspNet.Identity.EntityFramework -Version 2.2.1
